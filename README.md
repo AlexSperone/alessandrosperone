@@ -1,5 +1,5 @@
 # Alessandro Sperone
-My public profile
+I work as a software developer in the Microsoft ecosystem. My core business is to create Web CRM for companies with a sales network.
 
 ### Languages and Tools:
 
@@ -30,4 +30,5 @@ My public profile
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/spero84?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAlexSperone&screen_name=alessandrosperone)
+[twitter]: https://twitter.com/spero84
+[linkedin]: https://www.linkedin.com/in/alessandro-sperone-1b912358/
